@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    padding: 1rem;
+    height: auto;
+    box-sizing: border-box;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.header p{
+    margin: 0;
+}
+
+.headerlogo{
+    width: 20%;
+}
+
+.headernav{
+    width: 80%;
+    background: beige;
+}

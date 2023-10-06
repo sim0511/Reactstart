@@ -1,0 +1,7 @@
+.productcard{
+    width:100%;
+    height: auto;
+    background: orange;
+    display: flex;
+    gap:1rem;
+}

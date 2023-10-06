@@ -1,0 +1,10 @@
+.logo{
+    width: 100%;
+    height: auto;
+    background-color: aquamarine;
+    color: white;
+}
+
+.logo h1{
+    margin: 0;
+}
